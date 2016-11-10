@@ -44,9 +44,15 @@ I have significant experience in negotiation and proactive relationship manageme
 
 ## Experience
 
-**Department of Economic Development, Jobs, Transport and Resources** (2015 - 2016)    
+#### Department of Economic Development, Jobs, Transport and Resources (2015 - 2016)    
+
 *Departmental Liaison Officer - Small Business and Innovation*
+
 I managed the relationship between the Minister's office and the Department; a high pressure role with tight timeframes, a need for effective communication skills, and a keen eye for detail.
-**Public Transport Victoria** (2010 - 2015)   
+
+
+#### Public Transport Victoria (2010 - 2015)   
+
 *Various Roles*  
+
 From 2010 to 2015 I worked for Public Transport Victoria (previously the Transport Ticketing Authority), in varied roles where I gained experience in project management, stakeholder relationship management, training and communication strategies.
