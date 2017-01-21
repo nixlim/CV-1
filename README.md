@@ -39,8 +39,7 @@ I have significant experience in negotiation and proactive relationship manageme
 - Gained an introductory knowledge of HTML, CSS, jQuery and Javascript
 
 #### Certificate IV in Training and Assessment (2014)
-- Training qualification
-- Worked as a trainer
+- Training qualification to support my job as a trainer
 
 #### Australian College of Natural Medicine (2005 to 2009)
 
