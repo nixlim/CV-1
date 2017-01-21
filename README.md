@@ -1,41 +1,46 @@
 ## Dan Pelensky
 
-I am currently undertaking the Makers Academy programming course, a highly selective immersive program to learn programming from a base level. I am a Canadian-Australian citizen with two Bachelor of Health Science degrees and six years of public service experience. At the age of 31 I quit my job, moved to London to learn to program. I am looking for an environment where I can be as immersed as Makers Academy, and learn something new every day.
+I am nearly finished my time at Makers Academy, a highly selective immersive program to learn to code where I have had the time of my life learning something I love.
+
+I am a Canadian-Australian citizen with two Bachelor of Health Science degrees and six years of public service experience. At the age of 31 I quit my job, moved to London to become a developer. I am looking for a working environment where I can continue to learn as intensely as I have at Makers Academy to develop my skills as a developer.
 
 ## Skills
 
 #### Communication
 
-I have strong experience in varied written and verbal communications, including briefings, correspondence and memoranda.
+Besides coding, I pride myself in my communication abilities. I have demonstrated experience in varied written and verbal communications, and am not afraid to have difficult conversations.
 
-- I have written professional communications for audiences from the general public to Government Minister, ensuring all communication was efficient, prompt, complete and accurate, to ensure understanding and retention of content.
+- I have written professional communications for audiences from the general public to Government Ministers, ensuring all communication was efficient, prompt, complete and accurate to ensure understanding and retention of content.
 - I maintained a public-facing website for Public Transport Victoria (PTV).
 - I have a background in public speaking and technical training.
 
 #### Stakeholder Management
-I have significant experience in negotiation and proactive relationship management with internal and external stakeholders to maintain a positive, productive and mutually beneficial working relationship.
+I have significant experience in negotiation and proactive relationship management with internal and external stakeholders. My goal has always been to maintain a positive, productive and mutually beneficial working relationship with my stakeholders.
 
-- I recently managed the relationship between the office of the Minister for Small Business, Innovation and Trade and the Department of Economic Development, Jobs, Transport and Resources (DEDJTR).
-- When Melbourne was changing ticketing systems, I managed and administered the Metcard Fares and Ticketing Refund Policy and provided oversight of OneLink Transit Systems’ application of the Metcard refund policy business rules, including the monitoring the performance of the OneLink Transit Systems refund department against Key Performance Indicators
+- I managed the relationship between the office of the Minister for Small Business, Innovation and Trade and the Department of Economic Development, Jobs, Transport and Resources (DEDJTR) in Victoria. In this role every piece of communication between the Minister's Office and Department went through me.
+- When Melbourne was changing ticketing systems, I managed the Metcard Fares and Ticketing Refund Policy which was administered by an external company.  In this role I provided oversight of OneLink Transit Systems’ application of the Metcard refund policy business rules, including the monitoring the performance of the OneLink Transit Systems refund department against Key Performance Indicators
 
 ## Education
 
 #### Makers Academy (2016 to 2017)
 
-- Curiosity and hungry passion for code
+- Passion for code; building and improving features
 - Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+- OOP, TDD, SOLID, MVC, DDD, Agile
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
+- Ruby, Rails, Javascript, Node.js
 - Rspec, Jasmine, Mocha
+- HTML, CSS, jQuery
+- Hungry to learn
 
 #### General Assembly (2015)
 
-- Studied a part time Front End web development course
+- Part time Front End Web Development course
 - Gained an introductory knowledge of HTML, CSS, jQuery and Javascript
 
 #### Certificate IV in Training and Assessment (2014)
-- Completed a training qualification to assist me in my job where I was working as a trainer.
+- Training qualification
+- Worked as a trainer
 
 #### Australian College of Natural Medicine (2005 to 2009)
 
@@ -55,4 +60,7 @@ I have significant experience in negotiation and proactive relationship manageme
 
 *Various Roles*  
 
-- From 2010 to 2015 I worked for Public Transport Victoria (previously the Transport Ticketing Authority), in varied roles where I gained experience in project management, stakeholder relationship management, training and communication strategies.
+- From 2010 to 2015 I worked for Public Transport Victoria (formerly the Transport Ticketing Authority), in varied roles where I gained experience in project management, stakeholder relationship management, training and communication strategies.
+
+## Contact
+Please don't hesitate to contact me on [LinkedIn ](https://www.linkedin.com/in/danpelensky) at any time if you are looking for a passionate, smart Junior Developer who prides himself on using software craftsmanship best practices.
