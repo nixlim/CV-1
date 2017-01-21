@@ -8,7 +8,7 @@ I am a Canadian-Australian citizen with two Bachelor of Health Science degrees a
 
 #### Communication
 
-Besides coding, I pride myself in my communication abilities. I have demonstrated experience in varied written and verbal communications, and am not afraid to have difficult conversations.
+I pride myself in my communication abilities. I have demonstrated experience in varied written and verbal communications, and am not afraid to have difficult conversations.
 
 - I have written professional communications for audiences from the general public to Government Ministers, ensuring all communication was efficient, prompt, complete and accurate to ensure understanding and retention of content.
 - I maintained a public-facing website for Public Transport Victoria (PTV).
