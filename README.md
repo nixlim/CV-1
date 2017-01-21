@@ -33,7 +33,7 @@ I have significant experience in negotiation and proactive relationship manageme
 - HTML, CSS, jQuery
 - Hungry to learn
 
-#### General Assembly (2015)
+#### General Assembly (2016)
 
 - Part time Front End Web Development course
 - Gained an introductory knowledge of HTML, CSS, jQuery and Javascript
