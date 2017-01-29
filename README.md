@@ -1,6 +1,6 @@
 ## Dan Pelensky
 
-[Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Contact](#Contact)
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Contact](#contact)
 
 I am nearly finished my time studying at Makers Academy, a highly selective immersive program to learn to code, where I have had the time of my life learning something I love. I have kept a blog of my journey learning to code, you can see it [on Medium](www.medium.com/@pelensky).
 
@@ -21,6 +21,18 @@ I have significant experience in negotiation and proactive relationship manageme
 
 - I managed the relationship between the office of the Minister for Small Business, Innovation and Trade and the Department of Economic Development, Jobs, Transport and Resources (DEDJTR) in Victoria. In this role every piece of communication between the Minister's Office and Department went through me.
 - When Melbourne was changing ticketing systems, I managed the Metcard Fares and Ticketing Refund Policy which was administered by an external company.  In this role I provided oversight of OneLink Transit Systems’ application of the Metcard refund policy business rules, including the monitoring the performance of the OneLink Transit Systems refund department against Key Performance Indicators
+
+## <a name="projects">Projects</a>
+Projects below are listed in chronological order and the code base is unchanged to when submitted to demonstrate progression.
+
+| Project | Summary | Technologies |
+|-|
+| [Takeaway Challenge](https://github.com/pelensky/takeaway-challenge) | A simple Ruby CLI application to order takeaway food, and confirm the time of delivery with a text message. | Ruby, OOD, TDD, Twillio API  |
+| [Rock, Papers, Scissors, Spock, Lizard ](https://github.com/pelensky/rps-challenge) | A web application to play Rock, Paper, Scissors, Spock, Lizard against a computer. | Ruby, OOD, TDD, Sinatra |
+| [VRAD BnB](https://github.com/pelensky/VRADbnb)                   | An application to mimic the basic functionality of AirBNB; our first opportunity building a web app in a team. | Ruby, Sinatra, Bootstrap, OOD, TDD|
+| [Bowling Challenge](https://github.com/pelensky/bowling-challenge)  | A simple console based JavaScript bowling score calculator. | Javascript, OOD, TDD|
+| [Instagram Challenge](https://github.com/pelensky/instagram-challenge)  | A rails based application designed to mimic the basic functionality of Instagram. | Ruby, Rails, AWS, OOD, TDD|
+
 
 ## <a name="Education">Education</a>
 
@@ -48,7 +60,7 @@ I have significant experience in negotiation and proactive relationship manageme
 - Completed two Bachelor of Health Science degrees with excellent marks and high clinical success rates
 - Was the most requested and fully booked student practitioner in my clinic level
 
-## <a name="Experience">Experience</a>
+## <a name="experience">Experience</a>
 
 #### Department of Economic Development, Jobs, Transport and Resources (2015 - 2016)    
 
@@ -62,5 +74,5 @@ In this role I managed the relationship between the Minister's office and the De
 
 From 2010 to 2015 I worked for Public Transport Victoria (formerly the Transport Ticketing Authority), in varied roles where I gained experience in project management, stakeholder relationship management, training and communication strategies.
 
-## <a name="Contact">Contact</a>
+## <a name="contact">Contact</a>
 Please don't hesitate to contact me on [LinkedIn ](https://www.linkedin.com/in/danpelensky) at any time if you are looking for a passionate, smart Junior Developer who prides themselves on using software craftsmanship best practices.
