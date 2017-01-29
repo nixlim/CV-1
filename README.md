@@ -2,7 +2,7 @@
 
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Contact](#contact)
 
-I am nearly finished my time studying at Makers Academy, a highly selective immersive program to learn to code, where I have had the time of my life learning something I love. I have kept a blog of my journey learning to code, you can see it [on Medium](www.medium.com/@pelensky).
+I am nearly finished my time studying at Makers Academy, a highly selective immersive program to learn to code, where I have had the time of my life learning something I love. I have kept a blog of my journey learning to code, you can see it [on Medium](http://www.medium.com/@pelensky).
 
 I am a Canadian-Australian dual-citizen with the right to work in the UK. I have two Bachelor of Health Science degrees and six years of public service experience. At the age of 31 I quit my job and moved to London to become a developer. I am looking for a working environment where I can continue to learn as intensely as I have at Makers Academy.
 
