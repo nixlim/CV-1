@@ -26,7 +26,7 @@ I have significant experience in negotiation and proactive relationship manageme
 Projects below are listed in chronological order and the code base is unchanged to when submitted to demonstrate progression.
 
 | Project | Summary | Technologies |
-|----------|
+|----------|----------|----------|
 | [Takeaway Challenge](https://github.com/pelensky/takeaway-challenge) | A simple Ruby CLI application to order takeaway food, and confirm the time of delivery with a text message. | Ruby, OOD, TDD, Twillio API  |
 | [Rock, Papers, Scissors, Spock, Lizard ](https://github.com/pelensky/rps-challenge) | A web application to play Rock, Paper, Scissors, Spock, Lizard against a computer. | Ruby, OOD, TDD, Sinatra |
 | [VRAD BnB](https://github.com/pelensky/VRADbnb)                   | An application to mimic the basic functionality of AirBNB; our first opportunity building a web app in a team. | Ruby, Sinatra, Bootstrap, OOD, TDD|
