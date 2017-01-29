@@ -1,10 +1,12 @@
 ## Dan Pelensky
 
-I am nearly finished my time at Makers Academy, a highly selective immersive program to learn to code where I have had the time of my life learning something I love. I have kept a blog of my journey learning to code, you can see it [on Medium](www.medium.com/@pelensky).
+[Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Contact](#Contact)
 
-I am a Canadian-Australian citizen with two Bachelor of Health Science degrees and six years of public service experience. At the age of 31 I quit my job, moved to London to become a developer. I am looking for a working environment where I can continue to learn as intensely as I have at Makers Academy to develop my skills.
+I am nearly finished my time studying at Makers Academy, a highly selective immersive program to learn to code, where I have had the time of my life learning something I love. I have kept a blog of my journey learning to code, you can see it [on Medium](www.medium.com/@pelensky).
 
-## Skills
+I am a Canadian-Australian dual-citizen with the right to work in the UK. I have two Bachelor of Health Science degrees and six years of public service experience. At the age of 31 I quit my job and moved to London to become a developer. I am looking for a working environment where I can continue to learn as intensely as I have at Makers Academy.
+
+## <a name="skills">Skills</a>
 
 #### Communication
 
@@ -20,7 +22,7 @@ I have significant experience in negotiation and proactive relationship manageme
 - I managed the relationship between the office of the Minister for Small Business, Innovation and Trade and the Department of Economic Development, Jobs, Transport and Resources (DEDJTR) in Victoria. In this role every piece of communication between the Minister's Office and Department went through me.
 - When Melbourne was changing ticketing systems, I managed the Metcard Fares and Ticketing Refund Policy which was administered by an external company.  In this role I provided oversight of OneLink Transit Systems’ application of the Metcard refund policy business rules, including the monitoring the performance of the OneLink Transit Systems refund department against Key Performance Indicators
 
-## Education
+## <a name="Education">Education</a>
 
 #### Makers Academy (2016 to 2017)
 
@@ -46,20 +48,19 @@ I have significant experience in negotiation and proactive relationship manageme
 - Completed two Bachelor of Health Science degrees with excellent marks and high clinical success rates
 - Was the most requested and fully booked student practitioner in my clinic level
 
-## Experience
+## <a name="Experience">Experience</a>
 
 #### Department of Economic Development, Jobs, Transport and Resources (2015 - 2016)    
 
 *Departmental Liaison Officer - Small Business and Innovation*
 
-- I managed the relationship between the Minister's office and the Department; a high pressure role with tight timeframes, a need for effective communication skills, and a keen eye for detail.
-
+In this role I managed the relationship between the Minister's office and the Department in a high pressure role with tight timeframes, a need for effective communication skill and a keen eye for detail. This involved proactively dealing with a cross-section of stakeholders including the Minister, Chief of Staff and Department heads.
 
 #### Public Transport Victoria (2010 - 2015)   
 
 *Various Roles*  
 
-- From 2010 to 2015 I worked for Public Transport Victoria (formerly the Transport Ticketing Authority), in varied roles where I gained experience in project management, stakeholder relationship management, training and communication strategies.
+From 2010 to 2015 I worked for Public Transport Victoria (formerly the Transport Ticketing Authority), in varied roles where I gained experience in project management, stakeholder relationship management, training and communication strategies.
 
-## Contact
-Please don't hesitate to contact me on [LinkedIn ](https://www.linkedin.com/in/danpelensky) at any time if you are looking for a passionate, smart Junior Developer who prides himself on using software craftsmanship best practices.
+## <a name="Contact">Contact</a>
+Please don't hesitate to contact me on [LinkedIn ](https://www.linkedin.com/in/danpelensky) at any time if you are looking for a passionate, smart Junior Developer who prides themselves on using software craftsmanship best practices.
