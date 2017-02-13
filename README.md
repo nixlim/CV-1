@@ -1,6 +1,6 @@
 ## Dan Pelensky
 
-[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Contact](#contact)
+[Skills](#skills) | [Makers Academy Projects](#makers_projects) | [Personal Projects](#personal_projects) | [Education](#education) | [Experience](#experience) | [Contact](#contact)
 
 I am a graduate of Makers Academy, a highly selective immersive program to learn to code, where I have had the time of my life learning something I love. I have kept a blog of my journey learning to code, you can see it [on Medium](http://www.medium.com/@pelensky).
 
@@ -22,7 +22,7 @@ I have significant experience in negotiation and proactive relationship manageme
 - I managed the relationship between the office of the Minister for Small Business, Innovation and Trade and the Department of Economic Development, Jobs, Transport and Resources (DEDJTR) in Victoria. In this role every piece of communication between the Minister's Office and Department went through me.
 - When Melbourne was changing ticketing systems, I managed the Metcard Fares and Ticketing Refund Policy which was administered by an external company.  In this role I provided oversight of OneLink Transit Systems’ application of the Metcard refund policy business rules, including the monitoring the performance of the OneLink Transit Systems refund department against Key Performance Indicators
 
-## <a name="projects">Projects</a>
+## <a name="makers_projects">Makers Academy Projects</a>
 Projects below are listed in chronological order and the code base is unchanged to when submitted to demonstrate progression.
 
 | Project | Summary | Technologies |
@@ -32,6 +32,14 @@ Projects below are listed in chronological order and the code base is unchanged 
 | [VRAD BnB](https://github.com/pelensky/VRADbnb)                   | An application to mimic the basic functionality of AirBNB; our first opportunity building a web app in a team. | Ruby, Sinatra, Bootstrap, OOD, TDD|
 | [Bowling Challenge](https://github.com/pelensky/bowling-challenge)  | A simple console based JavaScript bowling score calculator. | Javascript, OOD, TDD|
 | [Instagram Challenge](https://github.com/pelensky/instagram-challenge)  | A rails based application designed to mimic the basic functionality of Instagram. | Ruby, Rails, AWS, OOD, TDD|
+| [Prescriptable](https://github.com/pelensky/prescriptable)  | An iOS app to help GP's prescribe antibiotics to their patients. | Swift 3, Xcode 8, iOS 10, OOD|
+
+## <a name="personal_projects">Personal Projects</a>
+These are selected projects that I have completed outside of Makers Academy. The list will continue to grow.
+
+| Project | Summary | Technologies |
+|----------|----------|----------|
+| [Unbeatable Tic Tac Toe](https://github.com/pelensky/unbeatable_tic_tac_toe)  | A command line game of Tic Tac Toe where the player can never win. Can be played with two players, one player one computer, or two computers. | Ruby, Minimax Algorithm,  OOD, TDD|
 
 
 ## <a name="Education">Education</a>
@@ -43,7 +51,7 @@ Projects below are listed in chronological order and the code base is unchanged 
 - OOP, TDD, SOLID, MVC, DDD, Agile
 - Software Craftsmanship
 - Ruby, Rails, Javascript, Node.js
-- Rspec, Jasmine, Mocha
+- Rspec, Jasmine
 - HTML, CSS, jQuery
 - Swift 3, XCode 8
 - Hungry to learn
