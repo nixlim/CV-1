@@ -27,12 +27,12 @@ Projects below are listed in chronological order and the code base is unchanged 
 
 | Project | Summary | Technologies | Further Info |
 |----------|----------|----------|----------|
-| [Takeaway Challenge](https://github.com/pelensky/takeaway-challenge) | A simple Ruby CLI application to order takeaway food, and confirm the time of delivery with a text message. | Ruby, OOD, TDD, Twillio API  | [Demo](https://vimeo.com/204050775) [Blog](https://medium.com/@pelensky/weekend-challenge-takeaway-challenge-f3fa9a65355f#.5uni0451o) |
-| [Rock, Papers, Scissors, Spock, Lizard ](https://github.com/pelensky/rps-challenge) | A web application to play Rock, Paper, Scissors, Spock, Lizard against a computer. | Ruby, OOD, TDD, Sinatra |
-| [VRAD BnB](https://github.com/pelensky/VRADbnb)                   | An application to mimic the basic functionality of AirBNB; our first opportunity building a web app in a team. | Ruby, Sinatra, Bootstrap, OOD, TDD|
-| [Bowling Challenge](https://github.com/pelensky/bowling-challenge)  | A simple console based JavaScript bowling score calculator. | Javascript, OOD, TDD|
-| [Instagram Challenge](https://github.com/pelensky/instagram-challenge)  | A rails based application designed to mimic the basic functionality of Instagram. | Ruby, Rails, AWS, OOD, TDD|
-| [Prescriptable](https://github.com/pelensky/prescriptable)  | An iOS app to help GP's prescribe antibiotics to their patients. | Swift 3, Xcode 8, iOS 10, OOD|
+| [Takeaway Challenge](https://github.com/pelensky/takeaway-challenge) | A simple Ruby CLI application to order takeaway food, and confirm the time of delivery with a text message. | Ruby, OOD, TDD, Twillio API  | [Video](https://vimeo.com/204050775) [Blog](https://medium.com/@pelensky/weekend-challenge-takeaway-challenge-f3fa9a65355f#.5uni0451o) |
+| [Rock, Papers, Scissors, Spock, Lizard ](https://github.com/pelensky/rps-challenge) | A web application to play Rock, Paper, Scissors, Spock, Lizard against a computer. | Ruby, OOD, TDD, Sinatra | [Video](https://vimeo.com/204053452) [Blog](https://medium.com/@pelensky/weekend-challenge-rock-paper-scissors-spock-lizard-c28c6ca626a3#.z1y42upl7)|
+| [VRAD BnB](https://github.com/pelensky/VRADbnb) | An application to mimic the basic functionality of AirBNB; our first opportunity building a web app in a team. | Ruby, Sinatra, Bootstrap, OOD, TDD| |
+| [Bowling Challenge](https://github.com/pelensky/bowling-challenge)  | A simple console based JavaScript bowling score calculator. | Javascript, OOD, TDD||
+| [Instagram Challenge](https://github.com/pelensky/instagram-challenge)  | A rails based application designed to mimic the basic functionality of Instagram. | Ruby, Rails, AWS, OOD, TDD||
+| [Prescriptable](https://github.com/pelensky/prescriptable)  | An iOS app to help GP's prescribe antibiotics to their patients. | Swift 3, Xcode 8, iOS 10, OOD| | |
 
 ## <a name="personal_projects">Personal Projects</a>
 These are selected projects that I have completed outside of Makers Academy. The list will continue to grow.
