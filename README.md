@@ -36,9 +36,9 @@ Projects below are listed in chronological order and the code base is unchanged 
 ## <a name="personal_projects">Personal Projects</a>
 These are selected projects that I have completed outside of Makers Academy. The list will continue to grow.
 
-| Project | Summary | Technologies |
-|----------|----------|----------|
-| [Unbeatable Tic Tac Toe](https://github.com/pelensky/unbeatable_tic_tac_toe)  | A command line game of Tic Tac Toe where the player can never win. Can be played with two players, one player one computer, or two computers. | Ruby, Minimax Algorithm,  OOD, TDD|
+| Project | Summary | Technologies | Further Info |
+|----------|----------|----------|----------|
+| [Unbeatable Tic Tac Toe](https://github.com/pelensky/unbeatable_tic_tac_toe)  | A command line game of Tic Tac Toe where the player can never win. Can be played with two players, one player one computer, or two computers. | Ruby, Minimax Algorithm,  OOD, TDD| [Blog](https://medium.com/@pelensky/unbeatable-tic-tac-toe-cdff434b82c9#.pt84u8tob) ||
 
 
 ## <a name="Education">Education</a>
