@@ -25,9 +25,9 @@ I have significant experience in negotiation and proactive relationship manageme
 ## <a name="makers_projects">Makers Academy Projects</a>
 Projects below are listed in chronological order and the code base is unchanged to when submitted to demonstrate progression.
 
-| Project | Summary | Technologies |
-|----------|----------|----------|
-| [Takeaway Challenge](https://github.com/pelensky/takeaway-challenge) | A simple Ruby CLI application to order takeaway food, and confirm the time of delivery with a text message. | Ruby, OOD, TDD, Twillio API  |
+| Project | Summary | Technologies | Further Info |
+|----------|----------|----------|----------|
+| [Takeaway Challenge](https://github.com/pelensky/takeaway-challenge) | A simple Ruby CLI application to order takeaway food, and confirm the time of delivery with a text message. | Ruby, OOD, TDD, Twillio API  | [Demo](https://vimeo.com/204050775) [Blog](https://medium.com/@pelensky/weekend-challenge-takeaway-challenge-f3fa9a65355f#.5uni0451o) |
 | [Rock, Papers, Scissors, Spock, Lizard ](https://github.com/pelensky/rps-challenge) | A web application to play Rock, Paper, Scissors, Spock, Lizard against a computer. | Ruby, OOD, TDD, Sinatra |
 | [VRAD BnB](https://github.com/pelensky/VRADbnb)                   | An application to mimic the basic functionality of AirBNB; our first opportunity building a web app in a team. | Ruby, Sinatra, Bootstrap, OOD, TDD|
 | [Bowling Challenge](https://github.com/pelensky/bowling-challenge)  | A simple console based JavaScript bowling score calculator. | Javascript, OOD, TDD|
