@@ -38,7 +38,8 @@ These are selected projects that I have completed outside of Makers Academy. The
 
 | Project | Summary | Technologies | Further Info |
 |----------|----------|----------|----------|
-| [Unbeatable Tic Tac Toe](https://github.com/pelensky/unbeatable_tic_tac_toe)  | A command line game of Tic Tac Toe where the player can never win. Can be played with two players, one player one computer, or two computers. | Ruby, Minimax Algorithm,  OOD, TDD| [Blog](https://medium.com/@pelensky/unbeatable-tic-tac-toe-cdff434b82c9#.pt84u8tob) ||
+| [Unbeatable Tic Tac Toe](https://github.com/pelensky/unbeatable_tic_tac_toe)  | A command line game of Tic Tac Toe where the player can never win. Can be played with two players, one player one computer, or two computers. | Ruby, Minimax Algorithm,  OOD, TDD| [Blog](https://medium.com/@pelensky/unbeatable-tic-tac-toe-cdff434b82c9#.pt84u8tob) |
+| [Front End Clothes Store](https://github.com/pelensky/clothesStore)  | A responsive single page web app for a retail store. There are products, a shopping cart, vouchers, and a check out function | JavaScript, jQuery, Bootstrap, OOD, TDD| [Mobile Video](https://vimeo.com/205090178) [Desktop Video](https://vimeo.com/205090148) [Blog](https://medium.com/@pelensky/clothes-store-single-page-web-app-65210405fb20#.hx93i7639) ||
 
 
 ## <a name="Education">Education</a>
